@@ -1,0 +1,29 @@
+
+           #canvas{
+			height:100%;
+            overflow: hidden;
+            position:absolute;
+            top:0;
+            left:0;
+            bottom:0;
+            right:0;
+            background-color: #ffffff;   
+				
+        }
+        
+       
+		
+        div.canvas-content{
+			position:relative;
+           
+        
+			background-image: url(back.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: fixed;
+			background-size: cover;
+			
+			height:100%;
+			
+        }
+        
