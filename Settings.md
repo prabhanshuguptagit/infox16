@@ -1,4 +1,4 @@
-Its an open source Technical and annual cultural festival project started by GGSIPU-LUG for educational and institutional purpose.
+Its an open source Technical and annual cultural festival project started by GGSIPU-LUG in assotiation with FOSS|USICT and WINGS OF FIRE|MOZ USICT, for educational and institutional purpose.
 Do let us know if you are using it for insti purpose, it will increase satisfaction level of the contributors. 
 
 Setting Up: 
