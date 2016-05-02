@@ -1,5 +1,5 @@
 # infox16
-This version is now deprecated. You can find the new version at github.com/techspaceusict/infoxpression/
+This version is now deprecated. You can find the new version at github.com/techspaceusict/infoxpression/ 
 
 Techfest USICT
 
