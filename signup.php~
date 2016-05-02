@@ -8,14 +8,9 @@
 
 		<link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/styles.css" type="text/css">
-	<script src="js/jquery-1.11.0.min.js"></script>	
+		
         
     </head>
-	<style>
-	#passcheck{
-	color:red;
-	}
-	</style>
     <body style="background-color:#000000">
        <?php include'includes/general/header.php'?>
 	   <div class="signup" style="background-image: url(img/back.png)">
@@ -39,10 +34,9 @@
                     <div class="widget-body">
                         <form id="signup-form" method="post" action="#"><!--><!-->
                             <input type="email" name="email" placeholder="Email">
-                            <input type="password" name="password" placeholder="Password" id="txtpass">
-                            <input type="password" name="confirm_password" placeholder="Re-Type Password" id="txtpassconf" onkeyup="checkPass()">
+                            <input type="password" name="password" placeholder="Password">
+                            <input type="password" name="confirm_password" placeholder="Re-Type Password">
                             <div id="password-characters"></div>
-			    <div id="passcheck"></div>
                             <button id="submit" type="submit"><span class="ui-icon"></span>&nbsp;&nbsp;Sign Up</button>
                         </form>
                     </div>
@@ -53,17 +47,7 @@
             </div>
         </div>
 
-<script>
-function checkPass() {
-    
-    var password = $("#txtpass").val();
-    var confirmPassword = $("#txtpassconf").val();
-
-    if (password != confirmPassword)
-        $("#passcheck").html("Passwords do not match!");
-    else
-        $("#passcheck").html("Passwords match.");
-}     
+        
 </script>
 
             
