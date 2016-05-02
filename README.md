@@ -1,4 +1,6 @@
 # infox16
+This version is now deprecated. You can find the new version at github.com/techspaceusict/infoxpression/
+
 Techfest USICT
 
 InfoXpression is the annual techno-cultural fest of University school of Information and Communication Technology. 
@@ -8,3 +10,4 @@ It gives you a chance to stop, culminate new ideas and showcase your technical e
 	
 To contribute Check out the [Contributor's Orientation Guide][COGG].
 [COGG]: /Contribution-guide.md
+
